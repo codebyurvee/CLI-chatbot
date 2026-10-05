@@ -1,0 +1,8 @@
+[project]
+name = "cli-chatbot"
+version = "0.1.0"
+description = "An interactive command-line coding tutor powered by Groq."
+requires-python = ">=3.12"
+dependencies = [
+    "groq>=1.7.0",
+]
